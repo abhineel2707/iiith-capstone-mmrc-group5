@@ -1,2 +1,1 @@
-# iiith-capstone-mmrc
-Multimodal media retrieval and captioning
+# Group 5 - Multimodal media retrieval and captioning
